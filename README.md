@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harajli
+- 👋 Hi, I’m Hassan Harajli
 - 👀 I’m interested in security
 - 🌱 I’m currently learning cloud security
 - 💞️ I’m looking to collaborate on cloud security
